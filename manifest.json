@@ -3,14 +3,14 @@
 
   "name": "Rain sound",
   "description": "Background noise to improve productivity.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Joaquín Vicente",
   "homepage_url": "https://github.com/wacko/rainsound",
 
   "browser_action": {
     "default_icon": {
-      "19": "none19px.png",
-      "38": "none38px.png"
+      "19": "images/none19px.png",
+      "38": "images/none38px.png"
     }
   },
   "background": {
